@@ -56,7 +56,7 @@ public class Main {
                     break;
             }
         } while (true);
-        for(int i = 0;i<5;i++){}
+        
     }
     
 }
